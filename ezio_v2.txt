@@ -1,0 +1,2 @@
+I try to add few lines to the file.
+This is a second line that did not exist before.
